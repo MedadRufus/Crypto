@@ -1,5 +1,4 @@
 import random
-from matplotlib import pyplot as plt
 
 prime = 2017
 secret = int(input("What is the secret?:"))
